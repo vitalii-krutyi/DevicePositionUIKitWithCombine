@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		84CDBD902F091C5200B9A2E9 /* DevicePositionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84CDBD8F2F091C4200B9A2E9 /* DevicePositionViewModel.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		84CDBD752F09179E00B9A2E9 /* DevicePositionUIKitWithCombine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DevicePositionUIKitWithCombine.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84CDBD8F2F091C4200B9A2E9 /* DevicePositionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevicePositionViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -47,6 +52,7 @@
 			children = (
 				84CDBD772F09179E00B9A2E9 /* DevicePositionUIKitWithCombine */,
 				84CDBD762F09179E00B9A2E9 /* Products */,
+				84CDBD8F2F091C4200B9A2E9 /* DevicePositionViewModel.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -132,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84CDBD902F091C5200B9A2E9 /* DevicePositionViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
